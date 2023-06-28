@@ -1,0 +1,18 @@
+c1 #e8edee
+c2 #d3dcde
+c3 #b8c8c8
+c4 #a5b8bc
+c5 #92aaae
+c6 #809397
+c7 #6f8589
+c8 #586c71
+c9 #495658
+c10 #3c4648
+c11 #2d3a3d
+c12 #232b2b
+c13 #0a1011
+destaque #4d868d
+
+max-width: 1200px;
+padding: 40px 140px;
+margin: 0 auto;
